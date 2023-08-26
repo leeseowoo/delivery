@@ -1,4 +1,4 @@
-package com.seowoo.delivery.catalog.domain.food;
+package com.seowoo.delivery.catalog.food.domain;
 
 public enum ButtonType {
 
